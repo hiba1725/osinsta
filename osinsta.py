@@ -50,7 +50,7 @@ try:
                 
         for k in range(3-i):
             images_links.append('No image found')
-        print(images_links)
+
         for k in range(3-j):
             videos_links.append('No video found')
         
